@@ -19,7 +19,7 @@ nav {
 .logo {
     color: rgb(226,226,226);    
     text-transform: uppercase;
-    letter-spacing: 5px;
+    letter-spacing: 3px;
     font-size: 22px;
     display:flex;
     padding: 0px;
@@ -82,7 +82,7 @@ nav {
         display: flex;
         flex-direction: column;
         align-items: center;
-        width: 30%;
+        width: 50%;
         transform: translateX(100%);
         transition: transform 0.5s ease-in;
     }
@@ -128,6 +128,7 @@ nav {
     text-align: justify;
     font-family: sans-serif;
     margin: 3.5rem;
+    margin-top: 5rem;
     margin-left: 2rem;
     margin-right: 2rem;
 }
