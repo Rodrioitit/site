@@ -35,7 +35,7 @@ nav {
 .nav-links {
     display: flex;
     justify-content: space-around;
-    width: 50%;
+    width: 30%;
 }
 
 .nav-links li {
@@ -127,7 +127,8 @@ nav {
 aside {
     float: right;
     position: relative;
-    }
+    
+}
 
 .telefone img {
     margin: 0;
@@ -141,6 +142,7 @@ aside {
     display:inline;
     font-family: sans-serif;
     font-size: 20px;
+    
 }
     
 .texto {
@@ -169,4 +171,6 @@ aside {
 .gallery img:hover {
     filter: grayscale(100%);
     transform: scale(1.1);
+    
+
 }
