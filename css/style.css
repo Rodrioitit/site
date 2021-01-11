@@ -19,8 +19,8 @@ nav {
 .logo {
     color: rgb(226,226,226);    
     text-transform: uppercase;
-    letter-spacing: 5px;
-    font-size: 22px;
+    letter-spacing: 2px;
+    font-size: 18px;
     display:flex;
     padding: 0px;
     
