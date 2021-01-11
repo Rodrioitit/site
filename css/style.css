@@ -26,10 +26,16 @@ nav {
     
 }
 
+.logo h4 {
+    font-size: 30px;
+    
+}
 .instagram {
+    padding-left: 1rem;
+}
+
+.telefone {
     padding-left: 2rem;
-    
-    
 }
 
 .nav-links {
@@ -141,8 +147,8 @@ aside {
 .telefone h4 { 
     display:inline;
     font-family: sans-serif;
-    font-size: 20px;
-    
+    font-size: 25px;
+    letter-spacing: 2px;
 }
     
 .texto {
@@ -159,7 +165,8 @@ aside {
 }
 
 .gallery {
-    margin: 10px 50px;
+    margin: 10px 80px;
+    padding-left: 50px;
 }
 
 .gallery img {
@@ -171,6 +178,4 @@ aside {
 .gallery img:hover {
     filter: grayscale(100%);
     transform: scale(1.1);
-    
-
 }
